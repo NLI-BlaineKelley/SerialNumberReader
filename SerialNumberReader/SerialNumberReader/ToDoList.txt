@@ -1,0 +1,9 @@
+TODO List
+-----------
+
+Add IP address, username and password as settings
+
+Test connecting to the camera
+
+Install on the production computer
+
